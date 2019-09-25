@@ -1,0 +1,32 @@
+#######################################
+# Syntax Coloring Map For HMC5833Llib
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Magnetometer	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+begin	KEYWORD2
+readRaw	KEYWORD2
+readGauss	KEYWORD2
+setGain	KEYWORD2
+readHeadingDeg	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+HMC5833L_GAIN_1370	LITERAL1
+HMC5833L_GAIN_1090	LITERAL1
+HMC5833L_GAIN_820	LITERAL1
+HMC5833L_GAIN_660	LITERAL1
+HMC5833L_GAIN_440	LITERAL1
+HMC5833L_GAIN_390	LITERAL1
+HMC5833L_GAIN_330	LITERAL1
+HMC5833L_GAIN_230	LITERAL1
